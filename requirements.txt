@@ -1,0 +1,5 @@
+numpy==1.24.4
+pandas==1.5.3
+tsml-eval==0.1.0
+torch==2.1.2
+pycatch22==0.4.4
